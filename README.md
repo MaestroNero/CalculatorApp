@@ -97,15 +97,6 @@ Notes / ملاحظات:
 
 ---
 
-If you want, I can also:
-- Create the README.md file in your repository (I will commit it to `main`).
-- Add a sample unit test harness and/or JUnit tests.
-- Reformat or group Java classes into a package and update the README.
-
-I will now add README.md to the repository.
-
----
-
 ### تحليل
 - **الفكرة والكيانات**: ثمانية أصناف محددة (Operation, BinaryOperation, UnaryOperation, Addition, Division, Power, SquareRoot, CalculatorApp) تغطي السلوك المجرد، التخصص الثنائي/الأحادي، العمليات الرياضية، والفئة الرئيسة للتطبيق.
 - **العلاقات**:
